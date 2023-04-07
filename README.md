@@ -1,12 +1,17 @@
 Modificações em andamento....
 
+Olá, sou Givaldo Medeiros Neto 
+Graduação em: Analise e Desenvolvimento de Sistemas;
+Pós Graduação em: Banco de Dados;
+Especialiação em: Java;
 
-<div>
-  <a href= "https://beacons.ai/GivaldoMedeirosNeto">
-
-</div>
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&count_private=true&theme=github_dark_dimmed)
+<!--
+  Temas: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+  Em Uso: github_dark_dimmed
+  Personaliações: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&theme=github_dark_dimmed)](https://github.com/GivaldoMedeirosNeto/github-readme-stats)
 <!--
 **GivaldoMedeirosNeto/GivaldoMedeirosNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
