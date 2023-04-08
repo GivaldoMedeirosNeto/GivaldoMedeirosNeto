@@ -9,6 +9,8 @@
 </h3>
 
 <a href="[https://www.linkedin.com/in/alianeamaral](https://www.linkedin.com/in/givaldo-da-silva-medeiros-neto-b14627162/)/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:givaldo.medeiros.neto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
 
  📚 Github Stats: <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&count_private=true&theme=github_dark_dimmed)
