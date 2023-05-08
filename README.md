@@ -1,13 +1,17 @@
 <h3>👋🏻Seja bem vindo(a) ao meu perfil GitHub👋🏻</br></h3>
 
 📚 Github Stats: <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&count_private=true&theme=github_dark_dimmed)
+
+<div>
+  <a href="[https://github.com/GivaldoMedeirosNeto](https://github.com/GivaldoMedeirosNeto)"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&langs_count=16&theme=github_dark_dimmed"/>
+</div>
 <!--
   Temas: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
   Em Uso: github_dark_dimmed
   Personaliações: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&theme=github_dark_dimmed)](https://github.com/GivaldoMedeirosNeto/github-readme-stats)
 
  ##
 <div align="center" style="display: inline_block">
