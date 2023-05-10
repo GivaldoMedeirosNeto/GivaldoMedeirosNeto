@@ -4,13 +4,10 @@
 
 <div>
   <a href="[https://github.com/GivaldoMedeirosNeto](https://github.com/GivaldoMedeirosNeto)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=givaldomedeirosneto&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=givaldomedeirosneto&layout=compact&langs_count=16&theme=github_dark_dimmed"/>
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=github_dark_dimmed"/>
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&theme=github_dark_dimmed"/>
 </div>
 <!--
-https://github-readme-stats-sigma-five.vercel.app/api
-https://github-readme-stats-github_dark_dimmed.vercel.app/api
-https://github-readme-stats.vercel.app/api
   Temas: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
   Em Uso: github_dark_dimmed
   Personaliações: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md
