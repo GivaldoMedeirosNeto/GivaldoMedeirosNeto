@@ -1,12 +1,13 @@
 <h3>👋🏻Seja bem vindo(a) ao meu perfil GitHub👋🏻</br></h3>
 
 📚 Github Stats: <br>
-
 <div>
-  <a href="[https://github.com/GivaldoMedeirosNeto](https://github.com/GivaldoMedeirosNeto)"> 
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=github_dark_dimmed"/>
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&theme=github_dark_dimmed"/>
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=github_dark_dimmed"/>
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&theme=github_dark_dimmed"/>
 </div>
+
+##<br>
+
 <!--
   Temas: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
   Em Uso: github_dark_dimmed
