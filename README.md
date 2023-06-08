@@ -1,13 +1,23 @@
 <h3>👋🏻Seja bem vindo(a) ao meu perfil GitHub👋🏻</br></h3>
 
 📚 Github Stats: <br>
+<!-- Antigo
 <div align="center">
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=github_dark_dimmed"/>
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&theme=github_dark_dimmed"/></br>
+</div> -->
+
+<div>
+  <a href="[https://github.com/GivaldoMedeirosNeto](https://github.com/GivaldoMedeirosNeto)"> 
+  <img height="45%" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <br>
+  <img height="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
+  
 <!--
   Temas: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-  Em Uso: github_dark_dimmed
+  Em Uso: tokyonight
+  Já Usado: github_dark_dimmed
   Personaliações: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md
 -->
 
