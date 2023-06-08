@@ -39,18 +39,8 @@
 <a href = "mailto:givaldo.medeiros.neto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div>
-  <img src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/layla-mlbb.gif" width="220"><br>
-  <i> Mobile Legends ⭐️ Layla </i>  
+  <img src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/layla-mlbb.gif" width="197">
+  <img src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/DohkoArmadura.gif" width="220">
+  <img src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/saint-seiya-lendas-da-justica.jpg" width="99"><br>
+  &nbsp;&nbsp;<i> Mobile Legends ⭐️ Layla </i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i> Dohko de Libra ⭐️</i> <i>Legend of Justice ⭐️</i>
 </div>
-  
-<!-- <div>
-  <img src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/DohkoArmadura.gif" width="220"><br>
-  <i> Dohko ⭐️</i>  
-</div> -->
-  
-<div>
-  <img src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/saint-seiya-lendas-da-justica.jpg" width="220"><br>
-  <i> Saint Seiya: Legend of Justice ⭐️</i>  
-</div>
-
-  
