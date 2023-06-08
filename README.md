@@ -9,13 +9,15 @@
 
 <div>
   <a href="[https://github.com/GivaldoMedeirosNeto](https://github.com/GivaldoMedeirosNeto)"> 
-  <img height="45%" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/><br>
-  <img height="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&langs_count=16&theme=github_dark_dimmed"/>
+  <img height="45%" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=tokyonightd&include_all_commits=true&count_private=true"/>
+  <br>
+  <img height="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
 <!--
   Temas: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-  Em Uso: github_dark_dimmed
+  Em Uso: tokyonight
+  Já Usado: github_dark_dimmed
   Personaliações: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md
 -->
 
