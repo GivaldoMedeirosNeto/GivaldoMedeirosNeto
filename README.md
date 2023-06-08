@@ -5,6 +5,13 @@
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=github_dark_dimmed"/>
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&theme=github_dark_dimmed"/></br>
 </div>
+
+<div>
+  <a href="[https://github.com/GivaldoMedeirosNeto](https://github.com/GivaldoMedeirosNeto)"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+  
 <!--
   Temas: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
   Em Uso: github_dark_dimmed
