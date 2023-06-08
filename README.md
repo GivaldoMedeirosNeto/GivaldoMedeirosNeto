@@ -38,4 +38,5 @@
 <a href="[https://www.linkedin.com/in/alianeamaral](https://www.linkedin.com/in/givaldo-da-silva-medeiros-neto-b14627162/)/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:givaldo.medeiros.neto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-<img src="[https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Knight-Game.gif](https://tenor.com/pt-BR/view/layla-mlbb-mobile-legends-bang-bang-hero-gif-22654400)" width="220">
+<i> Mobile Legends ⭐️</i> <br> <br>
+<img src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/layla-mlbb.gif" width="220">
