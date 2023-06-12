@@ -1,11 +1,10 @@
 <h3>👋🏻Seja bem vindo(a) ao meu perfil GitHub👋🏻</br></h3>
 
 📚 Github Stats: <br>
-<div align="center">
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=tokyonight"/>
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&theme=tokyonight"/></br>
-</div>
-
+  <div align="left" width="50%">
+    <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=tokyonight"/>
+    <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&theme=tokyonight"/>   
+  </div>
 <!--
   Temas: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
   Em Uso: tokyonight
@@ -13,7 +12,7 @@
   Personaliações: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md
 -->
 
- ##
+##
 <div align="center" style="display: inline_block">
   <img align="center" alt="Ally-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Ally-MySQL" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />  
