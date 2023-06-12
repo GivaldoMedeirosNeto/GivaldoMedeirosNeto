@@ -11,7 +11,7 @@
       <img align="center" alt="Ally-Andorid" height="15%" width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
     </span>
   </div>
-  <br><br>
+  <br>
   <div>
     <span>
       <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&theme=tokyonight"/>
