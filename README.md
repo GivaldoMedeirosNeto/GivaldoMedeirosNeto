@@ -42,5 +42,5 @@
   <img src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/layla-mlbb.gif" width="197">
   <img src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/DohkoArmadura.gif" width="220">
   <img src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/saint-seiya-lendas-da-justica.jpg" width="99"><br>
-  &nbsp;&nbsp;<i> Mobile Legends ⭐️ Layla </i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;<i> Dohko de Libra ⭐️</i> <i>Legend of Justice</i>
+  &nbsp;&nbsp;<i> Mobile Legends ⭐️ Layla </i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i> Dohko de Libra ⭐️</i> <i>Legend of Justice</i>
 </div>
