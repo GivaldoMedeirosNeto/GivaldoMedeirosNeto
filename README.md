@@ -2,8 +2,8 @@
 
 📚 Github Stats: <br>
   <div align="left" width="50%">
-    <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=tokyonight"/>
-    <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&theme=tokyonight"/>   
+    <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=tokyonight"/></br></br>
+    <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&theme=tokyonight"/>   
   </div>
 <!--
   Temas: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
