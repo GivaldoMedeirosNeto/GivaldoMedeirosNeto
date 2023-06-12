@@ -2,7 +2,7 @@
 
 📚 Github Stats: <br>
 
-  <div>
+  <div align="center">
     <span>
       <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=tokyonight"/>
     </span>
@@ -12,7 +12,7 @@
     </span>
   </div>
   <br>
-  <div>
+  <div align="center">
     <span>
       <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&theme=tokyonight"/>
     </span>
