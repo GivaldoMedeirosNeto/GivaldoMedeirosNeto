@@ -4,7 +4,7 @@
 
   <div align="center">
     <span>
-      <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=tokyonight"/>
+      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </span>
     <span>
       <img align="center" alt="Ally-Java" height="15%" width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
@@ -14,14 +14,20 @@
   <br>
   <div align="center">
     <span>
-      <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&theme=tokyonight"/>
+      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&langs_count=16&theme=tokyonight"/>
     </span>
     <span>
       <img align="center" alt="Ally-MySQL" height="15%" width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />  
       <img align="center" alt="Ally-SQLServer" height="15%" width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
     </span>
   </div>
-
+  <!--
+    <div>
+      <a href="[https://github.com/GivaldoMedeirosNeto](https://github.com/GivaldoMedeirosNeto)"> 
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&langs_count=16&theme=tokyonight"/>
+    </div>
+  -->
 <!--
   Temas: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
   Em Uso: tokyonight
