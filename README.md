@@ -4,8 +4,7 @@
 
   <div align="center">
     <span>
-      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      
+      <img align="center" width="45%" src=""/>      
     </span>
     <span>
       <img align="center" alt="Ally-Java" height="15%" width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
