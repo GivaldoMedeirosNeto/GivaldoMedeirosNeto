@@ -10,11 +10,11 @@
   <br>
   <div align="center">
     <span>
-      <img align="center" alt="Ally-Java1" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/Java.gif" />
-      <img align="center" alt="Ally-MySQL" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/MySQL.gif" />
-      <img align="center" alt="Ally-JavaScript" height="8%" width="8%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/JavaScript.gif" />
-      <img align="center" alt="Ally-SQLServer" height="10%" width="10%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/SQLServer.gif" />
-      <img align="center" alt="Ally-JSP" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/JSP.gif" />
+      <img align="center" alt="Ally-Java1" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Java.gif" />
+      <img align="center" alt="Ally-MySQL" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/MySQL.gif" />
+      <img align="center" alt="Ally-JavaScript" height="8%" width="8%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/JavaScript.gif" />
+      <img align="center" alt="Ally-SQLServer" height="10%" width="10%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/SQLServer.gif" />
+      <img align="center" alt="Ally-JSP" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/JSP.gif" />
     </span>
   </div>
   <!--
