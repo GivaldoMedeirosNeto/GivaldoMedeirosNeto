@@ -38,6 +38,12 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=footer"/>
 
+<div align="center">
+  <br><p align="centre"><b>Contagem de Visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GivaldoMedeirosNeto}/count.svg" /></p> 
+  <br>
+</div>
+
 ##
 <h6>👩🏻‍💻 #desenvolvimento, #computação, #games e #tecnologia 💫 </h6>
 
