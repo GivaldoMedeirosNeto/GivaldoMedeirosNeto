@@ -28,6 +28,7 @@
   
   <img align="center" alt="Logo_MySQL" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/MySql.png" />
   <img align="center" alt="Logo_SQL_Server" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/SqlServer.png" />
+  <img align="center" alt="Logo_SQL_Server" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Sql.png" />
   <br>
   <img align="center" alt="Logo_Html" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Html.png" />
   <img align="center" alt="Logo_Css" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Css.png" />
