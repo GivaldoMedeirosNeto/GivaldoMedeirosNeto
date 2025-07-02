@@ -25,6 +25,7 @@
   <img align="center" alt="Logo_Jsp" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Jsp.png" />
   <img align="center" alt="Logo_Java_Script" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/JavaScript.png" />
   <img align="center" alt="Logo_Eclipse" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Eclipse.png" />
+  <img align="center" alt="Logo_SQL" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Sql.png" />
   <img align="center" alt="Logo_MySQL" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/MySql.png" />
   <img align="center" alt="Logo_SQL_Server" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/SqlServer.png" />
   <br>
