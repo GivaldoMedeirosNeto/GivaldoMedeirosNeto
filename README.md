@@ -21,7 +21,20 @@
 
 #### 📚 Habilidades e Conhecimentos 📚 
 <div align="center">
-  
+  <img align="center" alt="Logo_Java" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Java.png" />
+  <img align="center" alt="Logo_Jsp" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Jsp.png" />
+  <img align="center" alt="Logo_Java_Script" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/JavaScript.png" />
+  <img align="center" alt="Logo_Eclipse" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Eclipse.png" />
+  <img align="center" alt="Logo_SQL" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Sql.png" />
+  <img align="center" alt="Logo_MySQL" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/MySql.png" />
+  <img align="center" alt="Logo_SQL_Server" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/SqlServer.png" />  
+  <br>
+  <img align="center" alt="Logo_Html" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Html.png" />
+  <img align="center" alt="Logo_Css" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Css.png" />
+  <img align="center" alt="Logo_Windows" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Windows.png" />
+  <img align="center" alt="Logo_Office" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Office365.png" />
+  <img align="center" alt="Logo_Git" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Git.png" />
+  <img align="center" alt="Logo_GitHub" height="9%" width="9%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/GitHub.png" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=footer"/>
