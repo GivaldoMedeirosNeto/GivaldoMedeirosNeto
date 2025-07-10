@@ -21,7 +21,7 @@
 
 #### 📚 Habilidades e Conhecimentos 📚 
 <div align="center">
-  <img align="center" alt="Logo_Java" height="17%" width="17%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Java.png" />
+  <img align="center" alt="Logo_Java" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Java.png" />
   <img align="center" alt="Logo_Jsp" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Jsp.png" />
   <img align="center" alt="Logo_Java_Script" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/JavaScript.png" />
   <img align="center" alt="Logo_Eclipse" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Eclipse.png" />
