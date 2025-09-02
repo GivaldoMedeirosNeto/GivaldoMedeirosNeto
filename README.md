@@ -44,19 +44,19 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GivaldoMedeirosNeto&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+ <img src="https://github-profile-trophy.vercel.app/?username=GivaldoMedeirosNeto&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 ##
 <h6>👩🏻‍💻 #games #Animes 💫 </h6>
 
-<div>
-  <img src="../main/gifs/SoloLeveling.gif" width="350">
-  <img src="../main/gifs/Bleach.gif" width="350">
-  <br>
-  <img src="../main/gifs/layla-mlbb.gif" width="197">
-  <img src="../main/gifs/DohkoArmadura.gif" width="220">  
-  <img src="../main/imagens/saint-seiya-lendas-da-justica.jpg" width="99">
+<div >
+ <img src="../main/imagens/saint-seiya-lendas-da-justica.jpg" width="350" align="left">
+ <img src="../main/gifs/SoloLeveling.gif" width="350">
+ <img src="../main/gifs/Bleach.gif" width="350">
+ <br>
+ <img src="../main/gifs/DohkoArmadura.gif" width="220">
+ <img src="../main/gifs/layla-mlbb.gif" width="197"> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0012,50:4a0b3f,100:9c1d6d&height=120&section=footer"/>
