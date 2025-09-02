@@ -6,6 +6,8 @@
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&count_private=true&hide_border=true&title_color=8B008B8&icon_color=8B008B&text_color=8B008B&bg_color=0d1117" alt="Givaldo Medeiros Neto github stats" />
 
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&hide_border=true&title_color=8B008B&&text_color=8B008B&bg_color=0d1117"/>
 
 </div>
