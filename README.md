@@ -52,7 +52,7 @@
 
 <div>
   <img src="../main/gifs/SoloLeveling.gif" width="350">
-  <img src="../main/gifs/Bleach.gif">
+  <img src="../main/gifs/Bleach.gif" width="350">
   <br>
   <img src="../main/gifs/layla-mlbb.gif" width="197">
   <img src="../main/gifs/DohkoArmadura.gif" width="220">  
