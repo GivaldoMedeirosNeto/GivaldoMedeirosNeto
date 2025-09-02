@@ -56,7 +56,7 @@
   <br>
   <img src="../main/gifs/layla-mlbb.gif" width="197">
   <img src="../main/gifs/DohkoArmadura.gif" width="220">  
-  <img src="../main/imagem/saint-seiya-lendas-da-justica.jpg" width="99">
+  <img src="../main/imagens/saint-seiya-lendas-da-justica.jpg" width="99">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0012,50:4a0b3f,100:9c1d6d&height=120&section=footer"/>
