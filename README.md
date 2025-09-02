@@ -13,25 +13,25 @@
   <div>
     &ensp;&ensp;
     <img align="center" alt="Logo_Java" height="7%" width="7%" src="../main/icones/Java.png" />
-    <img align="center" alt="Logo_Java_Script" height="7%" width="7%" src="../main/imagem/Icones/JavaScript.png" />
-    <img align="center" alt="Logo_SQL" height="9%" width="9%" src="../main/imagem/Icones/Sql.png" />
+    <img align="center" alt="Logo_Java_Script" height="7%" width="7%" src="../main/icones/JavaScript.png" />
+    <img align="center" alt="Logo_SQL" height="9%" width="9%" src="../main/icones/Sql.png" />
     <img align="center" alt="Logo_Html" height="9%" width="9%" src="../main/icones/Html.png" />
-    <img align="center" alt="Logo_Css" height="9%" width="9%" src="../main/imagem/Icones/Css.png" />
+    <img align="center" alt="Logo_Css" height="9%" width="9%" src="../main/icones/Css.png" />
   </div>
 
 🚀 Frameworks e bibliotecas &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;🛠️ Ferramentas de desenvolvimento
   <div>
     &ensp;&ensp;
-    <img align="center" alt="Logo_Jsp" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/Jsp.png" />
-    <img align="center" alt="Logo_Java_Script" height="7%" width="7%" src="https://github.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/blob/main/imagem/Icones/JavaScript.png" />
+    <img align="center" alt="Logo_Jsp" height="7%" width="7%" src="../main/icones/Jsp.png" />
+    <img align="center" alt="Logo_Java_Script" height="7%" width="7%" src="../main/icones/JavaScript.png" />
     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-    <img align="center" alt="Logo_Eclipse" height="7%" width="7%" src="../main/imagem/Icones/Eclipse.png" />
-    <img align="center" alt="Logo_Git" height="9%" width="9%" src="../main/imagem/Icones/Git.png" />
-    <img align="center" alt="Logo_GitHub" height="9%" width="9%" src="../main/imagem/Icones/GitHub.png" />        
-    <img align="center" alt="Logo_MySQL" height="9%" width="9%" src="../main/imagem/Icones/MySql.png" />
-    <img align="center" alt="Logo_SQL_Server" height="9%" width="9%" src="../main/imagem/Icones/SqlServer.png" />
-    <img align="center" alt="Logo_Windows" height="9%" width="9%" src="../main/imagem/Icones/Windows.png" />
-    <img align="center" alt="Logo_Office" height="9%" width="9%" src="../main/imagem/Icones/Office365.png" />  
+    <img align="center" alt="Logo_Eclipse" height="7%" width="7%" src="../main/icones/Eclipse.png" />
+    <img align="center" alt="Logo_Git" height="9%" width="9%" src="../main/icones/Git.png" />
+    <img align="center" alt="Logo_GitHub" height="9%" width="9%" src="../main/icones/GitHub.png" />        
+    <img align="center" alt="Logo_MySQL" height="9%" width="9%" src="../main/icones/MySql.png" />
+    <img align="center" alt="Logo_SQL_Server" height="9%" width="9%" src="../main/icones/SqlServer.png" />
+    <img align="center" alt="Logo_Windows" height="9%" width="9%" src="../main/icones/Windows.png" />
+    <img align="center" alt="Logo_Office" height="9%" width="9%" src="../main/icones/Office365.png" />  
   </div>
 
 ##
