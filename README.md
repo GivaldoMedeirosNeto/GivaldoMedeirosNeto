@@ -51,7 +51,7 @@
 <h6>👩🏻‍💻 #games #Animes 💫 </h6>
 
 <div>
-  <img src="../main/gifs/SoloLeveling.gif">
+  <img src="../main/gifs/SoloLeveling.gif" width="350">
   <img src="../main/gifs/Bleach.gif">
   <br>
   <img src="../main/gifs/layla-mlbb.gif" width="197">
