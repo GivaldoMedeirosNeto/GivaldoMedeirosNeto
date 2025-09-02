@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0012,50:4a0b3f,100:9c1d6d&height=120&section=header"/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9c1d6d&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindo+ao+meu+perfil+GIT!!;Olá,+meu+nome+é+Givaldo+Medeiros+Neto;)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0012,50:4a0b3f,100:9c1d6d&height=120&section=header&text=Seja%20Bem-Vindo%20ao%20meu%20perfil%20GIT!!&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=20"/>
 
 <div align="center" margin="50px">
   
