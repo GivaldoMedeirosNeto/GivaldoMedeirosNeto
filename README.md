@@ -3,8 +3,8 @@
  <h2>✨Um pouco sobre mim </h2> 
   <img align="right" alt="Coding" width="400" src="../main/imagens/Imagem.png">
       <p>🎓 Sou formado em Análise e Desenvolvimento de Sistemas com Pós Graduação em Desenvolvimento Orientado a Objetos com Java</p>
-      <p>💻 Apaixonado por desenvolvimento de programas na linguagem Java</p>
-      <p>👩🏻‍💻 A teoria e prática caminham juntas, mas é a patricando que o aprendizado se solidifica de verdade. Gosto de transformar ideias em soluções, e cada linha representa uma pequena conquista no meu caminho como desenvolvedor.</p>
+      <p>👩🏻‍💻 Apaixonado pela linguagem Java</p>
+      <p>💻 A teoria e prática caminham juntas, mas é a patricando que o aprendizado se solidifica de verdade. Gosto de transformar ideias em soluções, e cada linha representa uma pequena conquista no meu caminho como desenvolvedor.</p>
       <p><br><br><br><br><br><br></p>
       <p>💫 Desenvolvimento, Computação, Tecnologia, Games, #Animes 💫</p>
 
