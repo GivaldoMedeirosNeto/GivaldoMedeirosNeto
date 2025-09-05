@@ -19,12 +19,16 @@
     <img align="center" alt="Logo_Css" height="9%" width="9%" src="../main/icones/Css.png" />
   </div>
 
-🚀 Frameworks e bibliotecas &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;🛠️ Ferramentas de desenvolvimento
+  ## 🚀 Frameworks e bibliotecas
   <div>
     &ensp;&ensp;
     <img align="center" alt="Logo_Jsp" height="7%" width="7%" src="../main/icones/Jsp.png" />
     <img align="center" alt="Logo_Java_Script" height="7%" width="7%" src="../main/icones/JavaScript.png" />
-    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+  </div>
+  
+  ## 🛠️ Ferramentas de desenvolvimento
+  <div>
+    &ensp;&ensp;
     <img align="center" alt="Logo_Eclipse" height="7%" width="7%" src="../main/icones/Eclipse.png" />
     <img align="center" alt="Logo_Git" height="9%" width="9%" src="../main/icones/Git.png" />
     <img align="center" alt="Logo_GitHub" height="9%" width="9%" src="../main/icones/GitHub.png" />        
