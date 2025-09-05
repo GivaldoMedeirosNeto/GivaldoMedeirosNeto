@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0012,50:4a0b3f,100:9c1d6d&height=120&section=header&text=Seja%20Bem-Vindo%20ao%20meu%20perfil%20GIT!!&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=20"/>
 
  <h2>✨Um pouco sobre mim </h2> 
-  <img align="right" alt="Coding" width="400" src="../imagens/Imagem.png">
+  <img align="right" alt="Coding" width="400" src="../main/imagens/Computador.png">
       <p>🎓 Sou formado em Análise e Desenvolvimento de Sistemas com Pós Graduação em Desenvolvimento Orientado a Objetos com Java</p>
       <p>👩🏻‍💻 Apaixonado pela linguagem Java e minha 🐱<b>Penélope</b></p>
       <p>💻 A teoria e prática caminham juntas, mas é a patricando que o aprendizado se solidifica de verdade. Gosto de transformar ideias em soluções, e cada linha representa uma pequena conquista no meu caminho como desenvolvedor.</p>
