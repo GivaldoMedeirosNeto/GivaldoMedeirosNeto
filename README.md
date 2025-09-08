@@ -35,7 +35,8 @@
     <img align="center" alt="Logo_MySQL" height="9%" width="9%" src="../main/icones/MySql.png" />
     <img align="center" alt="Logo_SQL_Server" height="9%" width="9%" src="../main/icones/SqlServer.png" />
     <img align="center" alt="Logo_Windows" height="9%" width="9%" src="../main/icones/Windows.png" />
-    <img align="center" alt="Logo_Office" height="9%" width="9%" src="../main/icones/Office365.png" />  
+    <img align="center" alt="Logo_Office" height="9%" width="9%" src="../main/icones/Office365.png" />
+   <img align="center" alt="Logo_PowerBI" height="9%" width="9%" src="../main/icones/PowerBI.png" /> 
   </div>
 
 ##
