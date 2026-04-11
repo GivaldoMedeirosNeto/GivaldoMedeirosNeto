@@ -52,12 +52,16 @@
 <h6>👩🏻‍💻 #games #Animes 💫 </h6>
 
 <div >
- <img src="../main/imagens/saint-seiya-lendas-da-justica.jpg" width="350" align="left">
- <img src="../main/gifs/SoloLeveling.gif" width="350">
- <img src="../main/gifs/Bleach.gif" width="350">
+ <img src="../main/imagens/saint-seiya-lendas-da-justica.jpg" width="260" align="left">
+ <img src="../main/imagens/AlexVirgo-GivaLibra.png" width="291" align="left">
+ <img src="../main/gifs/DohkoArmadura.gif" width="210">
+ <img src="../main/gifs/layla-mlbb.gif" width="197">
+ <img src="../main/gifs/Bleach.gif" width="200">
+ <img src="../main/gifs/wing-zero-gundam.gif" width="200">
  <br>
- <img src="../main/gifs/DohkoArmadura.gif" width="220">
- <img src="../main/gifs/layla-mlbb.gif" width="197"> 
+ 
+ <img src="../main/gifs/SoloLeveling.gif" width="350"> 
+ <br>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0012,50:4a0b3f,100:9c1d6d&height=120&section=footer"/>
