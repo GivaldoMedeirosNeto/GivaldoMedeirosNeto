@@ -43,14 +43,12 @@
 
 <img align="right" alt="Coding" width="400" src="../main/imagens/Computador.png">
 
-<div align="left" margin="50px">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=radical" alt="Givaldo Medeiros Neto github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&hide_border=true&title_color=9c1d6d&text_color=ffffff&bg_color=0d1117"/>
+<div align="left">
+  <img width="49%" height="195px" src="https://givaldomedeirosnetostats.vercel.app/api?username=GivaldoMedeirosNeto&show_icons=true&theme=radical" alt="Givaldo Medeiros Neto github stats" />
+  <img width="41%" height="195px" src="https://givaldomedeirosnetostats.vercel.app/api/top-langs/?username=GivaldoMedeirosNeto&layout=compact&hide_border=true&title_color=9c1d6d&text_color=ffffff&bg_color=0d1117"/>
 </div>
 
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=GivaldoMedeirosNeto&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
 
 ##
 <h6>👩🏻‍💻 #games #Animes 💫 </h6>
