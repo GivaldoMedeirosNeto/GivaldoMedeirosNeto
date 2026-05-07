@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           template: terminal
-          config_theme: cyberpunk
+          config_theme: dracula
           config_display: large
           config_timezone: America/Sao_Paulo
 
