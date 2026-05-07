@@ -40,9 +40,19 @@
   </div>
 
 ##
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/main/github-metrics.svg">
- <img align="right" alt="Coding" width="400" src="../main/imagens/Computador.png">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <img 
+    alt="Coding" 
+    width="350"
+    src="../main/imagens/Computador.png"
+  >
+
+  <img 
+    width="450"
+    src="https://raw.githubusercontent.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/main/github-metrics.svg"
+  >
+
 </div>
 
 ##
