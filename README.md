@@ -40,20 +40,16 @@
   </div>
 
 ##
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <img 
-    alt="Coding" 
-    width="350"
-    src="../main/imagens/Computador.png"
-  >
-
-  <img 
-    width="450"
-    src="https://raw.githubusercontent.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/main/github-metrics.svg"
-  >
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img width="320" src="../main/imagens/Computador.png">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/main/github-metrics.svg">
+    </td>
+  </tr>
+</table>
 
 ##
 <h6>👩🏻‍💻 #games #Animes 💫 </h6>
