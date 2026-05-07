@@ -40,11 +40,9 @@
   </div>
 
 ##
-
-<img align="right" alt="Coding" width="400" src="../main/imagens/Computador.png">
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/main/github-metrics.svg">
+ <img align="right" alt="Coding" width="400" src="../main/imagens/Computador.png">
 </div>
 
 ##
