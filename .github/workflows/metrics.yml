@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           template: classic
-          config_theme: cyberpunk
+          theme: cyberpunk
           config_timezone: America/Sao_Paulo
 
           base: header, activity
