@@ -16,8 +16,10 @@ jobs:
           user: GivaldoMedeirosNeto
           token: ${{ secrets.METRICS_TOKEN }}
 
-          base: header, activity, community
+          template: classic
           config_timezone: America/Sao_Paulo
+
+          base: header, activity
 
           plugin_languages: yes
           plugin_languages_limit: 8
