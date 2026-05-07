@@ -1,6 +1,7 @@
 name: Metrics
+
 on:
-  schedule: [{cron: "0 */12 * * *"}]
+  schedule: [{ cron: "0 */12 * * *" }]
   workflow_dispatch:
 
 jobs:
@@ -16,8 +17,12 @@ jobs:
           user: GivaldoMedeirosNeto
           token: ${{ secrets.METRICS_TOKEN }}
 
-          base: header, activity, community
+          template: classic
+          config_theme: dracula
+          config_display: large
           config_timezone: America/Sao_Paulo
+
+          base: header, activity, community
 
           plugin_languages: yes
           plugin_languages_limit: 8
