@@ -17,7 +17,7 @@ jobs:
           user: GivaldoMedeirosNeto
           token: ${{ secrets.METRICS_TOKEN }}
 
-          template: classic
+          template: terminal
           config_theme: cyberpunk
           config_display: large
           config_timezone: America/Sao_Paulo
