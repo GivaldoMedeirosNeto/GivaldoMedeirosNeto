@@ -46,7 +46,7 @@
       <img width="320" src="../main/imagens/Computador.png">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/main/github-metrics.svg">
+      <img src="https://raw.githubusercontent.com/GivaldoMedeirosNeto/GivaldoMedeirosNeto/main/github-metrics.svg?cache=5">
     </td>
   </tr>
 </table>
