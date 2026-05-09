@@ -62,7 +62,7 @@
   <img src="../main/gifs/DohkoArmadura.gif" width="210">
   <img src="../main/gifs/layla-mlbb.gif" width="197">
   <img src="../main/gifs/Bleach.gif" width="200">
-  <img src="../main/gifs/wing-zero-gundam.gif" width="200">
+  <img src="../main/imagens/wing-zero-gundam.gif" width="200">
   <br><br>
   <img src="../main/gifs/SoloLeveling.gif" width="550">
 
